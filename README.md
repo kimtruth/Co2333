@@ -16,8 +16,8 @@ I'm a random guy on the internet. Currently developing apps for mobile platform.
 
 ## 👀 Some cool stuff to look into 
 
-Have a look at pinned projects below.
+- [Saily](https://github.com/SailyTeam/main)
 
-
+And have a look at pinned projects below.
 
 
